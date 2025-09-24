@@ -1,3 +1,4 @@
 class gatra{
 int i-0;
+int =45;
 }
