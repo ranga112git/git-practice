@@ -1,0 +1,3 @@
+class gatra{
+int i-0;
+}
